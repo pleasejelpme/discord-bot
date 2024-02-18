@@ -1,0 +1,4 @@
+WARNING    - 2024-02-17 20:58:58,701 - client          : PyNaCl is not installed, voice will NOT be supported
+WARNING    - 2024-02-17 20:58:58,702 - bot             : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2024-02-17 20:58:58,703 - client          : logging in using static token
+INFO       - 2024-02-17 20:58:59,533 - gateway         : Shard ID None has connected to Gateway (Session ID: 12111b6e0006456b00daa98cabd9f0c4).
